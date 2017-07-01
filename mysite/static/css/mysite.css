@@ -1,1 +1,50 @@
+h1 {
+  padding-top: 40px;
+}
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Work Sans', sans-serif;
+  text-transform: uppercase;
+  font-weight:bold;
+}
+
+p {
+  font-family: 'Lato', sans-serif;
+}
+
+#menu-nav {
+  padding: 15px 0px;
+  position: relative;
+  text-align: left;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+#blogposts {
+  padding: 15px 0px;
+  position: relative;
+  text-align: left;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.intro {
+  padding: 15px 0px;
+  position: relative;
+  text-align: left;
+  max-width: 1000px;
+  margin: 0 auto;
+  font-size: 1.5em;
+}
+
+.page-title {
+  padding: 15px 0px;
+  position: relative;
+  text-align: left;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+#blogblurb {
+  font-weight: 800;
+}
